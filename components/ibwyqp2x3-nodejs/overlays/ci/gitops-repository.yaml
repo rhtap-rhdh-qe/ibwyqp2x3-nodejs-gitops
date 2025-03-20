@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ibwyqp2x3-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ibwyqp2x3-nodejs-gitops
